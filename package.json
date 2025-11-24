@@ -1,0 +1,34 @@
+{
+  "name": "postenode",
+  "version": "1.0.0",
+  "description": "Implementacao e tratamento do metodo HTTP POST",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeatrizSCostaa/TRABALHO-2---PPI-METODO-POST-EM-NODE.JS-.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "express",
+    "http",
+    "post"
+  ],
+  "author": "Beatriz Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeatrizSCostaa/TRABALHO-2---PPI-METODO-POST-EM-NODE.JS-/issues"
+  },
+  "homepage": "https://github.com/BeatrizSCostaa/TRABALHO-2---PPI-METODO-POST-EM-NODE.JS-#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "session": "^0.1.0"
+  }
+}
